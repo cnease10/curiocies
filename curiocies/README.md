@@ -1,0 +1,1 @@
+Learning Next.js for my new React website. Still undecided if I will build the whole thing from scratch. Payments, scheduling, etc seem like they would be easier through a low code option to get started.
